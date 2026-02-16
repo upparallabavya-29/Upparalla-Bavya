@@ -1,154 +1,114 @@
 <p align="center">
-  <a href="https://upparallabavya-29.com?ref=github-hey-upparallabavya-29" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hey!%20I'm%20Prathmesh%20Soni&font=Fira%20Code&repeat=false&center=true&width=450&height=45&color=70a5fd&vCenter=true&pause=1000&size=28&duration=1" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey!%20I'm%20Upparalla%20Bavya&font=Fira%20Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=28" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&font=Fira%20Code&center=true&width=600&height=40&color=bf91f3&vCenter=true&size=20" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/upparalla-bavya-503936258/" target="_blank">
+    <img width="32" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/upparallabavya-29" target="_blank">
+    <img width="32" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Bavya_2004/" target="_blank">
+    <img width="32" src="https://cdn.simpleicons.org/leetcode/ffffff" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/223t1a3155" target="_blank">
+    <img width="32" src="https://cdn.simpleicons.org/hackerrank/ffffff" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bhavyabhavyareddy4@gmail.com">
+    <img width="32" src="https://cdn.simpleicons.org/gmail/ffffff" />
   </a>
 </p>
 
+---
+
+## 📖 About Me
+
+- 🐍 Python Developer  
+- 🌐 Django & Flask Web Development  
+- 🤖 AI & ML Enthusiast  
+- 🎓 Computer Science Engineering Student  
+- 🚀 Passionate about solving real-world problems  
+
+---
+
+## 📘 My Top Projects
+
 <p align="center">
-  <a href="https://soniprathmesh.com?ref=github-python-developer" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/upparallabavya-29/plant-disease-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=upparallabavya-29&repo=plant-disease-detection&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/upparallabavya-29/AI-Interview-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=upparallabavya-29&repo=AI-Interview-App&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/upparallabavya-29/Portfolio-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=upparallabavya-29&repo=Portfolio-&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-<!-- Social icons section -->
+---
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-03599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
+
+### 🧰 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092e20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Hosting
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
+### 💻 Tools
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/PrathmeshSoni/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/SoniPrathmesh" target="_blank">
-    <img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/70a5fd"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instacapture.mrsoni.me/@PrathmeshSoni" target="_blank">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/70a5fd"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://facebook.com/PrathmeshS0ni" target="_blank">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/70a5fd"/></a> -->
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:connect.prathmeshsoni@gmail.com" target="_blank">
-    <img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://soniprathmesh.com?ref=github-social-icons-section" target="_blank">
-    <img width="32px" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/70a5fd"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upparallabavya-29&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
-
-<!-- Social badges section- https://github.com/prathmeshsoni/Custom-Icon-Badges -->
 <p align="center">
-  <a href="https://github.com/PrathmeshSoni?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icons-badges.vercel.app/github/stars/?username=prathmeshsoni"/></a>
-  <a href="https://github.com/PrathmeshSoni?tab=followers" target="_blank">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icons-badges.vercel.app/github/followers/?username=prathmeshsoni"/></a>
-  <a href="https://github.com/PrathmeshSoni" target="_blank">
-    <img alt="views" title="GitHub profile views" src="https://custom-icons-badges.vercel.app/github/visitors/?username=prathmeshsoni"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=upparallabavya-29&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upparallabavya-29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<br/>
+---
 
-<details open> 
-  <summary>
-    <h2>
-        📖 About Me
-    </h2>
-  </summary>
-  
-- 🐍 Python Developer skilled in Web/Data Scraping and Selenium automation.
-- 🌐 Experienced with Django framework for web development.
-- 🎓 I’m in the final year of pursuing BTech in Computer Science Engineering, focusing on AI and ML.
-- 🔥 Passionate about pushing boundaries and finding innovative solutions.
-- 🤝 Thrives on collaborating with diverse teams for efficient goal achievement.
-  
-Check out one of my Django projects <a href="https://project.mrsoni.me/?ref=here-button" target="_blank">here</a> 👈.  
+## 📈 GitHub Activity Graph
 
-</details>
-
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/PrathmeshSoni/Ecommerce" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Ecommerce&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
-    <a href="https://github.com/PrathmeshSoni/Aiml" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=aiml&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/PrathmeshSoni/Money-Management" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=money-Management&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
-    <a href="https://github.com/PrathmeshSoni/Private-App" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Private-App&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/PrathmeshSoni/ProjectShowcase" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=ProjectShowcase&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/PrathmeshSoni/InstaCapture" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=InstaCapture&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
-  </p>
-
-  <a href="https://github.com/PrathmeshSoni?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-
-  <p>
-      <a href="https://github.com/search?q=user%3APrathmeshSoni+language%3Ac" target="_blank"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3APrathmeshSoni+language%3Acpp" target="_blank"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3APrathmeshSoni+language%3Acss" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3APrathmeshSoni+language%3Ahtml" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3APrathmeshSoni+language%3Ajavascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3APrathmeshSoni+language%3Apython" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3APrathmeshSoni+language%3Asql" target="_blank"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
-      <a href="#" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092e20.svg?logo=django&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-
-  <p>
-      <a href="#" target="_blank"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Pythonanywhere" src="https://img.shields.io/badge/Pythonanywhere-1d9fd7.svg?logo=Pythonanywhere&logoColor=white"></a>
-  </p>
-
-  <h3>💻 Software and Tools</h3>
-
-  <p>
-      <a href="#" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43b02a.svg?logo=selenium&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-0dbdf5?logo=Pycharm&logoColor=white"></a>
-  </p>
-</details>
-
-<details open> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/PrathmeshSoni" target="_blank">
-      <img title="PrathmeshSoni's Streak 🔥" alt="PrathmeshSoni's Streak 🔥" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshSoni&theme=tokyonight"/>
-    </a>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <a href="https://github.com/PrathmeshSoni" target="_blank"><img alt="PrathmeshSoni's GitHub Stats ⭐" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrathmeshSoni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/PrathmeshSoni" target="_blank"><img alt="PrathmeshSoni's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshSoni&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
-  <br/>
-
-  <h3>📈 GitHub Activity Graph</h3>
-
-  <a href="https://github.com/PrathmeshSoni" target="_blank"><img alt="PrathmeshSoni's Activity Graph 📈" src="https://github-readme-activity-graph.vercel.app/graph/?username=PrathmeshSoni&bg_color=1F222E&color=70a5fd&line=bf91f3&point=FFFFFF&hide_border=true" /></a>
-      
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=upparallabavya-29&bg_color=0d1117&color=58a6ff&line=bf91f3&point=ffffff&hide_border=true" />
+</p>

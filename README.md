@@ -6,92 +6,84 @@
   <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&font=Fira%20Code&center=true&width=600&height=40&color=bf91f3&vCenter=true&size=20" />
-</p>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/upparalla-bavya-503936258/" target="_blank">
-    <img width="32" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/upparallabavya-29" target="_blank">
-    <img width="32" src="https://cdn.simpleicons.org/github/ffffff" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Bavya_2004/" target="_blank">
-    <img width="32" src="https://cdn.simpleicons.org/leetcode/ffffff" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/223t1a3155" target="_blank">
-    <img width="32" src="https://cdn.simpleicons.org/hackerrank/ffffff" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bhavyabhavyareddy4@gmail.com">
-    <img width="32" src="https://cdn.simpleicons.org/gmail/ffffff" />
-  </a>
-</p>
+<h3 align="center">I'm a passionate and dynamic Full Stack Developer with a passion for crafting seamless web experiences.Proficient in HTML, CSS, JavaScript, Node.js, React, and MongoDB, brings a comprehensive skill set to the table.</h3>
 
 ---
+## 🙋‍♂️ About Me
+- 🔭 I'm an passionate Full-stack web developer with Generative AI specialised in MERN-stack.
 
-## 📖 About Me
+- 🌱 I have completed Full-stack web development with Generative AI course from **Masai School.**
 
-- 🐍 Python Developer  
-- 🌐 Django & Flask Web Development  
-- 🤖 AI & ML Enthusiast  
-- 🎓 Computer Science Engineering Student  
-- 🚀 Passionate about solving real-world problems  
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 Have a look at my profile at **[My Portfolio](https://portfolio-topaz-six-68.vercel.app/)**
+
+- 📫 How to reach me **bavyaupparalla@gmail.com**
+
+- ⚡ Fun fact **I am a fitness freak and a creative person from heart.**
 
 ---
-
-## 📘 My Top Projects
+## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/upparallabavya-29/plant-disease-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=upparallabavya-29&repo=plant-disease-detection&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/upparalla-bavya-503936258/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/upparallabavya-29/AI-Interview-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=upparallabavya-29&repo=AI-Interview-App&theme=tokyonight&hide_border=true" />
+  <a href="mailto:bavyaupparalla@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/upparallabavya-29/Portfolio-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=upparallabavya-29&repo=Portfolio-&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/upparallabavya-29">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://portfolio-topaz-six-68.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%2300bfff.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
----
 
-## 🛠️ My Favorite Tools
+## 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-03599C?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
+<div align="center">
 
-#### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Programming Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) 
+![DSA](https://img.shields.io/badge/DSA-%23FF6F61.svg)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) 
 
-### 🗄️ Databases & Hosting
-![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+**Web Development**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) 
+![REST API](https://img.shields.io/badge/RESTful_API-%23007ACC.svg)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) 
 
-### 💻 Tools
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) 
 
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%231F1F1F.svg?logo=render&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%23F6820D.svg?logo=cloudinary&logoColor=white)
+
+**Soft Skills**  
+![Problem-Solving](https://img.shields.io/badge/Problem-Solving-%23007ACC.svg) 
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-%2300BFFF.svg) 
+![Adaptability](https://img.shields.io/badge/Adaptability-%23FF7F50.svg) 
+![Time Management](https://img.shields.io/badge/Time_Management-%23FF6347.svg)
+
+</div>
 ---
 
 ## 📊 GitHub Stats
